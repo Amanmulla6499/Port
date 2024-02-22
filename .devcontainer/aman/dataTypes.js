@@ -6,8 +6,8 @@
 
 console.log(3+3)
 // ani most karun semicolon la avoid karne
-// code readable asne most importanat ahe
-console.log("Aman")
+// code readable asne most important ahe
+console.log("Aman") 
 
 // kontya pn datatype che type olkhyache asle tr
 
