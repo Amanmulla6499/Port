@@ -1,7 +1,7 @@
 let value = 3
 let negValue = -value
 // console.log(negValue); op = -3
-// + - * % /
+// + - * % / 
 
 let Fname = "Aman"
 let Lname = " Mulla"
